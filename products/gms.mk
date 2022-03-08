@@ -4,3 +4,6 @@ PRODUCT_PACKAGES += \
 	FakeStore \
 	IchnaeaNlpBackend \
 	NominatimGeocoderBackend \
+	AuroraDroid \
+	AuroraStore \
+	AuroraServices
